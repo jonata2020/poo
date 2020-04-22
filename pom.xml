@@ -34,10 +34,10 @@
 
 	<!-- Propriedades do propjeto -->
 	<properties>
-		<sonar.projectKey> jonata2020_papw </sonar.projectKey>
+		<sonar.projectKey> jonata2020_poo </sonar.projectKey>
   <organização do sonar> jonata2020 </ organização dosonar>
   <sonar.host.url> https://sonarcloud.io </sonar.host.url>
-  <sonar.login> d6c0b715e9a844dfc92902c1fbdba59503884fea </sonar.login>
+  <sonar.login> 2bc26c9e5321a988b44436ad2161de7072365808 </sonar.login>
 	</properties>
   <build>
     <sourceDirectory>src</sourceDirectory>
